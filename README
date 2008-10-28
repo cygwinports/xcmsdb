@@ -1,6 +1,6 @@
 xcmsdb
 ------------------------------------------
-Xorg X CMS Device Color Characterization utility
+X.Org X CMS Device Color Characterization utility
 
 Runtime requirements:
   cygwin-1.5.20-1
