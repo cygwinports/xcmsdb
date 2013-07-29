@@ -1,0 +1,13 @@
+inherit xorg
+
+NAME="xcmsdb"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="Xcms Device Color Characterization utility"
+DESCRIPTION="xcmsdb is used to load, query, or remove Device Color
+Characterization data stored in properties on the root window of the screen as
+specified in section 7, Device Color Characterization, of the ICCCM.  Device
+Color Characterization data (also called the Device Profile) is an integral
+part of Xlib's X Color Management System, necessary for proper conversion of
+color specification between device-independent and device-dependent forms."
